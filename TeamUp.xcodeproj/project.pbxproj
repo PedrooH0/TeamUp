@@ -8,17 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		CEF661532B2B782900678C8F /* TeamUpApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661522B2B782900678C8F /* TeamUpApp.swift */; };
-		CEF661552B2B782900678C8F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661542B2B782900678C8F /* ContentView.swift */; };
+		CEF661552B2B782900678C8F /* TelaJogador.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661542B2B782900678C8F /* TelaJogador.swift */; };
 		CEF661572B2B782B00678C8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEF661562B2B782B00678C8F /* Assets.xcassets */; };
 		CEF6615A2B2B782B00678C8F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEF661592B2B782B00678C8F /* Preview Assets.xcassets */; };
+		CEF661612B2B7C3000678C8F /* TelaTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661602B2B7C3000678C8F /* TelaTimes.swift */; };
+		CEF661632B2B7C6500678C8F /* ConfigurarTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661622B2B7C6500678C8F /* ConfigurarTime.swift */; };
+		CEF661652B2B7C7200678C8F /* NovoTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661642B2B7C7200678C8F /* NovoTime.swift */; };
+		CEF661672B2B7C7A00678C8F /* Lousa.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661662B2B7C7A00678C8F /* Lousa.swift */; };
+		CEF661692B2B7CB800678C8F /* TelaTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF661682B2B7CB800678C8F /* TelaTime.swift */; };
+		CEF6616B2B2B7CCD00678C8F /* Constens.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF6616A2B2B7CCD00678C8F /* Constens.swift */; };
+		CEF6616D2B2B7EEE00678C8F /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF6616C2B2B7EEE00678C8F /* ColorPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CEF6614F2B2B782900678C8F /* TeamUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeamUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF661522B2B782900678C8F /* TeamUpApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamUpApp.swift; sourceTree = "<group>"; };
-		CEF661542B2B782900678C8F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CEF661542B2B782900678C8F /* TelaJogador.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaJogador.swift; sourceTree = "<group>"; };
 		CEF661562B2B782B00678C8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEF661592B2B782B00678C8F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CEF661602B2B7C3000678C8F /* TelaTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaTimes.swift; sourceTree = "<group>"; };
+		CEF661622B2B7C6500678C8F /* ConfigurarTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigurarTime.swift; sourceTree = "<group>"; };
+		CEF661642B2B7C7200678C8F /* NovoTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NovoTime.swift; sourceTree = "<group>"; };
+		CEF661662B2B7C7A00678C8F /* Lousa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lousa.swift; sourceTree = "<group>"; };
+		CEF661682B2B7CB800678C8F /* TelaTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TelaTime.swift; sourceTree = "<group>"; };
+		CEF6616A2B2B7CCD00678C8F /* Constens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constens.swift; sourceTree = "<group>"; };
+		CEF6616C2B2B7EEE00678C8F /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +66,14 @@
 			isa = PBXGroup;
 			children = (
 				CEF661522B2B782900678C8F /* TeamUpApp.swift */,
-				CEF661542B2B782900678C8F /* ContentView.swift */,
+				CEF661602B2B7C3000678C8F /* TelaTimes.swift */,
+				CEF661542B2B782900678C8F /* TelaJogador.swift */,
+				CEF661622B2B7C6500678C8F /* ConfigurarTime.swift */,
+				CEF661642B2B7C7200678C8F /* NovoTime.swift */,
+				CEF661662B2B7C7A00678C8F /* Lousa.swift */,
+				CEF6616C2B2B7EEE00678C8F /* ColorPickerView.swift */,
+				CEF661682B2B7CB800678C8F /* TelaTime.swift */,
+				CEF6616A2B2B7CCD00678C8F /* Constens.swift */,
 				CEF661562B2B782B00678C8F /* Assets.xcassets */,
 				CEF661582B2B782B00678C8F /* Preview Content */,
 			);
@@ -137,7 +158,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEF661552B2B782900678C8F /* ContentView.swift in Sources */,
+				CEF661672B2B7C7A00678C8F /* Lousa.swift in Sources */,
+				CEF661692B2B7CB800678C8F /* TelaTime.swift in Sources */,
+				CEF661652B2B7C7200678C8F /* NovoTime.swift in Sources */,
+				CEF661612B2B7C3000678C8F /* TelaTimes.swift in Sources */,
+				CEF661552B2B782900678C8F /* TelaJogador.swift in Sources */,
+				CEF6616D2B2B7EEE00678C8F /* ColorPickerView.swift in Sources */,
+				CEF661632B2B7C6500678C8F /* ConfigurarTime.swift in Sources */,
+				CEF6616B2B2B7CCD00678C8F /* Constens.swift in Sources */,
 				CEF661532B2B782900678C8F /* TeamUpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
