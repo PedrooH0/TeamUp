@@ -1,5 +1,5 @@
 <div align="center">
-<h1>📍 Projeto de MFDS 📍</h1>
+<h1>📍 Projeto Apple Academy 📍</h1>
 
 <br>
 <br>
